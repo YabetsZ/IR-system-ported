@@ -1,0 +1,17 @@
+{
+  "name": "porterstemerjs",
+  "version": "1.0.0",
+  "description": "This is a porter stemmer algorithm implementation in javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "collections": "^5.1.13",
+    "mathjs": "^14.3.1",
+    "readline-sync": "^1.4.10"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
